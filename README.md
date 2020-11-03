@@ -1,6 +1,6 @@
-# flutter_umeng
+# flutter_fai_umeng
 
-友盟统计 flutter 插件 
+友盟统计 flutter 插件
 
 ## Getting Started
 
