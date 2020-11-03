@@ -1,4 +1,4 @@
-# flutter_fai_umeng
+# flutter_umeng
 
 友盟统计 flutter 插件 
 
